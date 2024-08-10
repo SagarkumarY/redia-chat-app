@@ -1,6 +1,8 @@
 # **Next.js Redis Chat App**
 This is a real-time chat application built using Next.js, Redis, and various modern front-end technologies. The application supports real-time messaging, user authentication, and media uploads.
 
+![Chat App Screenshot](https://res.cloudinary.com/sagarimg/image/upload/v1723308325/cyfqgsdcrclwqkejmd6c.png)
+
 ## **Features**
 - **Real-time Messaging:** Messages are instantly delivered using Redis and Pusher for real-time communication.
 - **User Authentication:** User authentication is managed using the `@kinde-oss/kinde-auth-nextjs` library.
@@ -31,3 +33,5 @@ This is a real-time chat application built using Next.js, Redis, and various mod
 git clone https://github.com/your-username/next-chat-app.git
 cd next-chat-app
 npm install
+
+
